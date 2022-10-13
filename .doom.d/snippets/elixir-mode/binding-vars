@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Add binding() |> IO.inspect(label: :vars)
+# key: vars
+# --
+binding() |> IO.inspect(label: :vars)
